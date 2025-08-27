@@ -7,15 +7,19 @@ We integrate the concepts of "vertical labs", "cloud labs", and "frugal twins" t
 
 - **Vertical labs**: optimize automation-friendly use of vertical space—so equipment comes to the operator (e.g., via a vertical lift module) rather than the operator moving between instruments
 
-![vertical-lab](https://github.com/user-attachments/assets/e3883769-006b-4d49-9887-d0d19f87fc53)
+![vertical-lab](./vertical-lab.gif)
+
+<!--- ![vertical-lab](https://github.com/user-attachments/assets/e3883769-006b-4d49-9887-d0d19f87fc53) --->
 
 - **Cloud labs**: enable remote, decentralized access to experimental resources—democratizing hardware, computation, and domain expertise
 
-
+![cloud-lab](./cloud-lab.gif)
 
 - **Frugal twins**: are low-cost, modular physical twins that complement high-cost systems, enabling low-risk prototyping, lower barriers to lab automation, and multi-fidelity optimization
 
-![frugal-twin](https://github.com/user-attachments/assets/5d28f57e-2316-4559-9530-0aae22c91a4c)
+![frugal-twin](./frugal-twin-480p.gif)
+
+<!--- ![frugal-twin](https://github.com/user-attachments/assets/5d28f57e-2316-4559-9530-0aae22c91a4c) --->
 
 ## Principal Investigator
 - Sterling Baird ([`sgbaird`](https://github.com/sgbaird)) | Assistant Professor, Department of Mechanical Engineering, Brigham Young University (BYU) [[scholar](https://scholar.google.com/citations?user=UACmnBgAAAAJ)] [[linkedin](https://www.linkedin.com/in/sterling-baird/)]
