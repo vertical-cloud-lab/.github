@@ -1,8 +1,3 @@
-# Vertical Cloud Laboratory @ BYU
-
-Autonomous, remote-access, vertically automated labs for materials and manufacturing discovery.
-
-## About
 We integrate the concepts of "vertical labs", "cloud labs", and "frugal twins" to make autonomous experimentation more accessible:
 
 - **Vertical labs**: optimize automation-friendly use of vertical space—so equipment comes to the operator (e.g., via a vertical lift module) rather than the operator moving between instruments
