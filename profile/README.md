@@ -1,4 +1,4 @@
-We integrate the concepts of "vertical labs", "cloud labs", and "frugal twins" to make autonomous experimentation more accessible:
+Vertical Cloud Lab @ BYU integrates the concepts of "vertical labs", "cloud labs", and "frugal twins" to make autonomous experimentation more accessible:
 
 - **Vertical labs**: optimize automation-friendly use of vertical space—so equipment comes to the operator (e.g., via a vertical lift module) rather than the operator moving between instruments
 
@@ -19,7 +19,7 @@ We integrate the concepts of "vertical labs", "cloud labs", and "frugal twins" t
 ## Principal Investigator
 - Sterling Baird ([`sgbaird`](https://github.com/sgbaird)) | Assistant Professor, Department of Mechanical Engineering, Brigham Young University (BYU) [[scholar](https://scholar.google.com/citations?user=UACmnBgAAAAJ)] [[linkedin](https://www.linkedin.com/in/sterling-baird/)]
 
-We are a new lab at BYU and welcome early collaborators and contributors.
+We are a new lab at Brigham Young University and welcome early collaborators and contributors.
 
 ## Core Research Thrusts
 - Autonomous alloy discovery
@@ -69,12 +69,9 @@ How to get involved:
 - Contributing: [link to CONTRIBUTING.md if available]
 - Code of Conduct: [link to CODE_OF_CONDUCT.md if available]
 - License(s): [link or note if org uses a standard license across repos]
--->
 
 ## Acknowledgements
 - [List funding sources, facilities, or partner organizations]
 - [Recognize contributors and collaborators]
 
----
-Last updated: 2025-08-27
-Edit this page: https://github.com/vertical-cloud-lab/.github/blob/main/profile/README.md
+-->
