@@ -2,9 +2,6 @@
 
 Autonomous, remote-access, vertically automated labs for materials and manufacturing discovery.
 
-## Principal Investigator
-- Sterling Baird ([`sgbaird`](https://github.com/sgbaird)) | Assistant Professor, Department of Mechanical Engineering, Brigham Young University (BYU) [[scholar](https://scholar.google.com/citations?user=UACmnBgAAAAJ)] [[linkedin](https://www.linkedin.com/in/sterling-baird/)]
-
 ## About
 We integrate the concepts of "vertical labs", "cloud labs", and "frugal twins" to make autonomous experimentation more accessible:
 
@@ -19,6 +16,9 @@ We integrate the concepts of "vertical labs", "cloud labs", and "frugal twins" t
 - **Frugal twins**: are low-cost, modular physical twins that complement high-cost systems, enabling low-risk prototyping, lower barriers to lab automation, and multi-fidelity optimization
 
 ![frugal-twin](https://github.com/user-attachments/assets/5d28f57e-2316-4559-9530-0aae22c91a4c)
+
+## Principal Investigator
+- Sterling Baird ([`sgbaird`](https://github.com/sgbaird)) | Assistant Professor, Department of Mechanical Engineering, Brigham Young University (BYU) [[scholar](https://scholar.google.com/citations?user=UACmnBgAAAAJ)] [[linkedin](https://www.linkedin.com/in/sterling-baird/)]
 
 We are a new lab at BYU and welcome early collaborators and contributors.
 
