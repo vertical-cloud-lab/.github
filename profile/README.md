@@ -1,4 +1,4 @@
-At the Vertical Cloud Lab, located at Brigham Young University (Provo, UT USA), we integrate the concepts of vertical automation, cloud experimentation, and frugal twins to make autonomous experimentation more accessible (see below). We are a new lab and welcome early collaborators and contributors.
+At the Vertical Cloud Lab @ Brigham Young University (Provo, UT USA), we integrate the concepts of vertical automation, cloud experimentation, and frugal twins to make autonomous experimentation more accessible (see below). We are a new lab and welcome early collaborators and contributors.
 
 ### Vertical Automation
 
