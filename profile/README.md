@@ -7,11 +7,11 @@ Autonomous, remote-access, vertically automated labs for materials and manufactu
   Google Scholar: https://scholar.google.com/citations?user=UACmnBgAAAAJ
 
 ## About
-We integrate three concepts to make autonomous experimentation more accessible:
+We integrate the concepts of "vertical labs", "cloud labs", and "frugal twins" to make autonomous experimentation more accessible:
 
-- **Vertical labs** optimize automation-friendly use of vertical space—so equipment comes to the operator (e.g., via a vertical lift module) rather than the operator moving between instruments
-- **Cloud labs** enable remote, decentralized access to experimental resources—democratizing hardware, computation, and domain expertise
-- **Frugal twins** are low-cost, modular physical twins that complement high-cost systems, enabling low-risk prototyping, lower barriers to lab automation, and multi-fidelity optimization
+- **Vertical labs**: optimize automation-friendly use of vertical space—so equipment comes to the operator (e.g., via a vertical lift module) rather than the operator moving between instruments
+- **Cloud labs**: enable remote, decentralized access to experimental resources—democratizing hardware, computation, and domain expertise
+- **Frugal twins**: are low-cost, modular physical twins that complement high-cost systems, enabling low-risk prototyping, lower barriers to lab automation, and multi-fidelity optimization
 
 We are a new lab at BYU and welcome early collaborators and contributors.
 
