@@ -2,6 +2,8 @@
 
 Autonomous, remote-access, vertically automated labs for materials and manufacturing discovery.
 
+![vertical-lab](https://github.com/user-attachments/assets/e3883769-006b-4d49-9887-d0d19f87fc53)
+
 ## Principal Investigator
 - Sterling Baird ([`sgbaird`](https://github.com/sgbaird)) | Assistant Professor, Department of Mechanical Engineering, Brigham Young University (BYU) [[scholar](https://scholar.google.com/citations?user=UACmnBgAAAAJ)] [[linkedin](https://www.linkedin.com/in/sterling-baird/)]
 
