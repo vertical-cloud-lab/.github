@@ -1,4 +1,4 @@
-Vertical Cloud Lab @ BYU integrates the concepts of "vertical labs", "cloud labs", and "frugal twins" to make autonomous experimentation more accessible:
+At the Vertical Cloud Lab, located at Brigham Young University (Provo, UT USA), we integrate the concepts of "vertical labs", "cloud labs", and "frugal twins" to make autonomous experimentation more accessible. We are a new lab at Brigham Young University and welcome early collaborators and contributors.
 
 - **Vertical labs**: optimize automation-friendly use of vertical space—so equipment comes to the operator (e.g., via a vertical lift module) rather than the operator moving between instruments
 
@@ -19,7 +19,6 @@ Vertical Cloud Lab @ BYU integrates the concepts of "vertical labs", "cloud labs
 ## Principal Investigator
 - Sterling Baird ([`sgbaird`](https://github.com/sgbaird)) | Assistant Professor, Department of Mechanical Engineering, Brigham Young University (BYU) [[scholar](https://scholar.google.com/citations?user=UACmnBgAAAAJ)] [[linkedin](https://www.linkedin.com/in/sterling-baird/)]
 
-We are a new lab at Brigham Young University and welcome early collaborators and contributors.
 
 ## Core Research Thrusts
 - Autonomous alloy discovery
