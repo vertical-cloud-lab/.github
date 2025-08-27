@@ -23,7 +23,7 @@ Cloud labs enable remote, decentralized access to experimental resources—democ
 ---
 
 ### Frugal Twins
-Frugal twins are low-cost, modular physical twins that complement high-cost systems, enabling low-risk prototyping, lower barriers to lab automation, and multi-fidelity optimization (DOI: [10.1039/D3DD00223C](https://doi.org/10.1039/D3DD00223C)).
+Frugal twins are low-cost, modular physical twins (like digital twins, but for hardware) that complement high-cost systems, enabling low-risk prototyping, lower barriers to lab automation, and multi-fidelity optimization (DOI: [10.1039/D3DD00223C](https://doi.org/10.1039/D3DD00223C)).
 
 ![frugal-twin](./frugal-twin-480p.gif)
 
