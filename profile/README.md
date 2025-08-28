@@ -2,7 +2,7 @@ At the Vertical Cloud Lab @ Brigham Young University (Provo, UT USA), we integra
 
 ### Vertical Automation
 
-Vertical labs optimize automation-friendly use of vertical space—so equipment comes to the operator (e.g., via a vertical lift module) rather than the operator moving between instruments.
+Vertical labs maximize *automation-friendly* vertical space utilization—so equipment comes to the operator (e.g., via a vertical lift module) rather than the operator moving between instruments.
 
 ![vertical-lab](./vertical-lab.gif)
 
