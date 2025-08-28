@@ -25,7 +25,7 @@ Cloud labs enable remote, decentralized access to experimental resources—democ
 ### Frugal Twins
 Frugal twins are low-cost, modular physical twins (like digital twins, but for hardware) that complement high-cost systems, enabling low-risk prototyping, lower barriers to lab automation, and multi-fidelity optimization (DOI: [10.1039/D3DD00223C](https://doi.org/10.1039/D3DD00223C)).
 
-![frugal-twin](./frugal-twin-480p-3.gif)
+![frugal-twin](./../frugal-twin-480p-3.gif)
 
 *Fig: [AMPERE-2](https://doi.org/10.1039/D5DD00180C) is a frugal twin for electrocatalyst discovery, enabling unit operations such as electrode cleaning, liquid handling, and electrodeposition via custom-built modules.*
 
