@@ -59,8 +59,9 @@ Goal: closed-loop alloy discovery and a working example to de-risk transfer of v
 
 (coming soon)
 
+<!---
 Browse all org repositories:
-- https://github.com/orgs/vertical-cloud-lab/repositories
+- https://github.com/orgs/vertical-cloud-lab/repositories --->
 
 ## Join the Lab
 We welcome:
