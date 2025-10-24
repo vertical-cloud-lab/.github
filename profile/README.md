@@ -36,9 +36,15 @@ Frugal twins are low-cost, modular physical twins (like digital twins, but for h
 
 
 ## Core Research Thrusts
-- Autonomous alloy discovery
-- Autonomous electrochemistry
-- Advanced Bayesian optimization
+
+### Autonomous alloy discovery
+We develop autonomous workflows for discovering novel alloys through AI-guided experimentation. By combining Bayesian optimization with robotic automation in vertical cloud labs, we intelligently navigate vast compositional spaces to identify high-performance materials for aerospace, energy, and structural applications. Our approach integrates automated powder dosing, additive manufacturing, and mechanical testing into closed-loop discovery cycles that operate continuously—shrinking alloy development timelines from years to months while making the discovery process more accessible and reproducible.
+
+### Autonomous electrochemistry
+We advance electrocatalyst discovery through automated platforms like AMPERE (Automated Modular Platform for Expedited and Reproducible Electrochemistry). These systems integrate robotic liquid handling, electrode preparation, and electrochemical characterization to accelerate screening of catalyst materials for sustainable energy applications. By automating traditionally manual and time-consuming processes, we achieve unprecedented reproducibility and throughput in electrochemical experimentation, democratizing access to sophisticated catalyst discovery capabilities through open-hardware designs and frugal twin implementations.
+
+### Advanced Bayesian optimization
+We develop and deploy state-of-the-art Bayesian optimization methods tailored for autonomous materials discovery. Our research addresses the unique challenges of experimental settings—including high-dimensional spaces, multiple objectives, batch constraints, and mixed variable types. Through human-in-the-loop workflows and open-source tools, we lower barriers to adopting intelligent experiment planning, enabling laboratories to maximize information gain per experiment and operate efficiently around the clock. This thrust underpins our autonomous discovery platforms and extends to multi-fidelity optimization leveraging both high-cost equipment and low-cost frugal twins.
 
 <!---
 
