@@ -49,13 +49,15 @@ The aerospace industry depends on metal alloys such as aluminum, titanium, steel
 
 ### Autonomous Electrochemistry
 
+In many energy applications such as batteries, fuel cells, and catalysts, electrochemistry plays a critical role. These systems often involve many components with complex interfaces and interactions between each (electrodes, electrolytes, etc.). Many parameters can be changed, and it can be difficult to reliably reproduce results. Closing the loop to electrochemistry workflows can help improve the throughput and repeatability of experiments while reducing the number of experiments required to accomplish high-level research goals. Our lab will begin with autonomous systems for studying next-generation battery chemistries and electrolyzers for fuel cells, involving 3D printed electrochemical cells, automated sample exchange, and tuning material composition and characterization parameters.
 
+<!--- Matthias G. fuel cell project --->
 
 ### Advanced Bayesian Optimization
 
 Real-world chemistry and materials science optimization tasks are complex, and we want to tackle materials discovery challenges without making oversimplifying assumptions. We choose algorithms that are expressive enough to ingest the full complexity such as non-uniform noise, competing performance objectives, large search spaces, and use of information from related datasets. We do this by (1) reducing the barrier to implementation of existing state-of-the-art algorithms through scaffolding tools such as [Honegumi](https://honegumi.readthedocs.io/), (2) addressing the curse of benchmarking by creating reusable and cheap-to-evaluate Turing optimization benchmarks that are indistinguishable from real measurements, and (3) develop high-performing algorithms tailored to materials science that can ingest contextual information and domain knowledge through human-guidance, multi-task modeling, physics-based modeling, and large-scale models (i.e., foundation models, large language models).
 
-
+<!--- --->
 
 <!---
 
