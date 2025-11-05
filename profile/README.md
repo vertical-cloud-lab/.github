@@ -76,7 +76,12 @@ Goal: closed-loop alloy discovery and a working example to de-risk transfer of v
 
 ## Software and Datasets
 
-https://honegumi.readthedocs.io/ | https://github.com/sgbaird/honegumi | [`pip install honegumi`](https://pypi.org/project/honegumi/) | https://arxiv.org/abs/2502.06815
+| Resource         | Link                                                                                 |
+|------------------|--------------------------------------------------------------------------------------|
+| Documentation    | [honegumi.readthedocs.io](https://honegumi.readthedocs.io/)                          |
+| Repository       | [github.com/sgbaird/honegumi](https://github.com/sgbaird/honegumi)                   |
+| Installation     | [`pip install honegumi`](https://pypi.org/project/honegumi/)                         |
+| Paper            | [arxiv.org/abs/2502.06815](https://arxiv.org/abs/2502.06815)                         |
 
 
 
