@@ -57,6 +57,10 @@ In many energy applications such as batteries, fuel cells, and catalysts, electr
 
 Real-world chemistry and materials science optimization tasks are complex, and we want to tackle materials discovery challenges without making oversimplifying assumptions. We choose algorithms that are expressive enough to ingest the full complexity such as non-uniform noise, competing performance objectives, large search spaces, and use of information from related datasets. We do this by (1) reducing the barrier to implementation of existing state-of-the-art algorithms through scaffolding tools such as [Honegumi](https://honegumi.readthedocs.io/), (2) addressing the curse of benchmarking by creating reusable and cheap-to-evaluate Turing optimization benchmarks that are indistinguishable from real measurements, and (3) develop high-performing algorithms tailored to materials science that can ingest contextual information and domain knowledge through human-guidance, multi-task modeling, physics-based modeling, and large-scale models (i.e., foundation models, large language models).
 
+![honegumi](./honegumi.gif)
+
+*Fig: [Honegumi](https://honegumi.readthedocs.io/) ('ho-nay-goo-mee'), which means "skeletal framework" in Japanese, is a package for interactively creating minimal working examples for advanced Bayesian optimization topics. By toggling the options for selection grid, a self-contained, error-free, and fully runnable code example is generated dynamically.*
+
 <!--- --->
 
 <!---
