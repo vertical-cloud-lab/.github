@@ -59,7 +59,7 @@ Real-world chemistry and materials science optimization tasks are complex, and w
 
 ![honegumi](./honegumi.gif)
 
-*Fig: [Honegumi](https://honegumi.readthedocs.io/) ('ho-nay-goo-mee'), which means "skeletal framework" in Japanese, is a package for interactively creating minimal working examples for advanced Bayesian optimization topics. By toggling the options for selection grid, a self-contained, error-free, and fully runnable code example is generated dynamically.*
+*Fig: [Honegumi](https://honegumi.readthedocs.io/) ('ho-nay-goo-mee'), which means "skeletal framework" in Japanese, is a package for interactively creating minimal working examples for advanced Bayesian optimization topics. By toggling the options on the selection grid, a self-contained, error-free, and fully runnable code example is generated dynamically.*
 
 <!--- --->
 
