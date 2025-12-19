@@ -45,6 +45,8 @@ The core research of the group spans three topics: autonomous alloy discovery fo
 
 The aerospace industry depends on metal alloys such as aluminum, titanium, steel, nickel, and copper alloys, and additive manufacturing can reduce lead time and costs while increasing design freedom for complex geometries. For example, NASA used selective laser melting to rapidly manufacture a shock-absorbing baffle component with minimal welding required, now used in the Space Launch System's RS-25 rocket engine. The Vertical Cloud Lab @ BYU aims to discover high-performing additively manufactured aerospace alloys. To help achieve this, we will begin by creating a remotely accessible self-driving lab workflow that integrates a vertical lift module, low-cost powder dosing units, an ultrasonic atomizer, a small-scale metal 3D printer, and mechanical testing equipment.
 
+![frugal-twin](./../am-alloy-2.gif)
+
 <!-- NASA example of AM alloy used in real-world application: https://ntrs.nasa.gov/api/citations/20230016654/downloads/Metal_AM_Aerospace_Binghamton%20Univ_11-16-23.pdf -->
 
 ### Autonomous Electrochemistry
@@ -56,6 +58,10 @@ In many energy applications such as batteries, fuel cells, and catalysts, electr
 ### Advanced Bayesian Optimization
 
 Real-world chemistry and materials science optimization tasks are complex, and we want to tackle materials discovery challenges without making oversimplifying assumptions. We choose algorithms that are expressive enough to ingest the full complexity such as non-uniform noise, competing performance objectives, large search spaces, and use of information from related datasets. We do this by (1) reducing the barrier to implementation of existing state-of-the-art algorithms through scaffolding tools such as [Honegumi](https://honegumi.readthedocs.io/), (2) addressing the curse of benchmarking by creating reusable and cheap-to-evaluate Turing optimization benchmarks that are indistinguishable from real measurements, and (3) develop high-performing algorithms tailored to materials science that can ingest contextual information and domain knowledge through human-guidance, multi-task modeling, physics-based modeling, and large-scale models (i.e., foundation models, large language models).
+
+![honegumi](./honegumi.gif)
+
+*Fig: [Honegumi](https://honegumi.readthedocs.io/) ('ho-nay-goo-mee'), which means "skeletal framework" in Japanese, is a package for interactively creating minimal working examples for advanced Bayesian optimization topics. By toggling the options on the selection grid, a self-contained, error-free, and fully runnable code example is generated dynamically.*
 
 <!--- --->
 
