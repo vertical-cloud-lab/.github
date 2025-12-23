@@ -32,10 +32,6 @@ Frugal twins are low-cost, modular physical twins (like digital twins, but for h
 
 <!--- ![frugal-twin](https://github.com/user-attachments/assets/5d28f57e-2316-4559-9530-0aae22c91a4c) --->
 
-## Principal Investigator
-
-- Sterling Baird ([`sgbaird`](https://github.com/sgbaird)) | Assistant Professor, Department of Mechanical Engineering, Brigham Young University (BYU) [[scholar](https://scholar.google.com/citations?user=UACmnBgAAAAJ)] [[linkedin](https://www.linkedin.com/in/sterling-baird/)]
-
 
 ## Core Research Thrusts
 
@@ -105,6 +101,10 @@ How to get involved:
 - Email (see [Sterling's profile](https://github.com/sgbaird))
 - Include your interests, background, and links to relevant work (GitHub, CV)
 - If applicable, reference specific org repos you'd like to contribute to
+
+## Principal Investigator
+
+- Sterling Baird ([`sgbaird`](https://github.com/sgbaird)) | Assistant Professor, Department of Mechanical Engineering, Brigham Young University (BYU) [[scholar](https://scholar.google.com/citations?user=UACmnBgAAAAJ)] [[linkedin](https://www.linkedin.com/in/sterling-baird/)]
 
 <!--
 ## Publications
