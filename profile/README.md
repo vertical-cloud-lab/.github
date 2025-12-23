@@ -49,6 +49,8 @@ The aerospace industry depends on metal alloys such as aluminum, titanium, steel
 
 In many energy applications such as batteries, fuel cells, and catalysts, electrochemistry plays a critical role. These systems often involve many components with complex interfaces and interactions between each (electrodes, electrolytes, etc.). Many parameters can be changed, and it can be difficult to reliably reproduce results. Closing the loop to electrochemistry workflows can help improve the throughput and repeatability of experiments while reducing the number of experiments required to accomplish high-level research goals. Our lab will begin with autonomous systems for studying next-generation battery chemistries and electrolyzers for fuel cells, involving 3D printed electrochemical cells, automated sample exchange, and tuning material composition and characterization parameters.
 
+https://accelerated-discovery.org/t/electrode-lifecycle-enhancement-through-computational-testing-and-research-automation/510/7
+
 <!--- Matthias G. fuel cell project --->
 
 ### Advanced Bayesian Optimization
