@@ -41,7 +41,9 @@ The core research of the group spans three topics: autonomous alloy discovery fo
 
 The aerospace industry depends on metal alloys such as aluminum, titanium, steel, nickel, and copper alloys, and additive manufacturing can reduce lead time and costs while increasing design freedom for complex geometries. For example, NASA used selective laser melting to rapidly manufacture a shock-absorbing baffle component with minimal welding required, now used in the Space Launch System's RS-25 rocket engine. The Vertical Cloud Lab @ BYU aims to discover high-performing additively manufactured aerospace alloys. To help achieve this, we will begin by creating a remotely accessible self-driving lab workflow that integrates a vertical lift module, low-cost powder dosing units, an ultrasonic atomizer, a small-scale metal 3D printer, and mechanical testing equipment.
 
-![frugal-twin](./../am-alloy-2.gif)
+![am-alloy](./../am-alloy-2.gif)
+
+*Fig: Conceptual demonstration of an alloy discovery workflow via a metal alloy ultrasonic atomizer, laser powder-bed fusion 3D printing, and a tensile tester.*
 
 <!-- NASA example of AM alloy used in real-world application: https://ntrs.nasa.gov/api/citations/20230016654/downloads/Metal_AM_Aerospace_Binghamton%20Univ_11-16-23.pdf -->
 
