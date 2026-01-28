@@ -1,4 +1,4 @@
-<img alt="image" src="https://github.com/user-attachments/assets/5be3f3e8-1a24-4b6c-ac84-ee4f782d4f11" />
+<img alt="image" src="https://github.com/user-attachments/assets/d215a880-7ad1-41a0-87f4-2c520ec06b1f" />
 
 At the Vertical Cloud Lab @ Brigham Young University (Provo, UT USA), we integrate the concepts of vertical automation, cloud experimentation, and frugal twins into self-driving labs focused on discovering new structural, aerospace, and energy materials. We also conduct research on advanced optimization methods to find better materials with fewer iterations. We are a new lab and welcome early collaborators and contributors.
 
