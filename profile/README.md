@@ -1,9 +1,5 @@
 <img alt="image" src="./vcl-lockup-one-line-outcrop-white-bg.png" />
 
-MS&T 2026 [TEMPORARY]:
-- https://github.com/vertical-cloud-lab/powder-doser/pulls
-- https://github.com/search?q=repo%3Avertical-cloud-lab%2Fbyu-vcl+atomize&type=pullrequests
-
 At the Vertical Cloud Lab @ Brigham Young University (Provo, UT USA), we integrate the concepts of vertical automation, cloud experimentation, and frugal twins into self-driving labs focused on discovering new structural, aerospace, and energy materials. We also conduct research on advanced optimization methods to find better materials with fewer iterations. We are a new lab and welcome early collaborators and contributors.
 
 ### Vertical Automation
